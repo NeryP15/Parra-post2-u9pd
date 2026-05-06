@@ -118,7 +118,7 @@ parra-post2-u9/
 
 ## Autor
 
-Alumno: parra  
+Alumno: Nery Parra  
 Curso: Post 2 - Unidad 9  
 Fecha: 2026
 
